@@ -38,12 +38,11 @@ class Car(models.Model):
 class CarAdmin(admin.ModelAdmin):
     list_display=('brand_name', 'car_name', 'enginenum', 'release_date')
 
-Include Your program
 ```
 ## OUTPUT
- 
-![alt text](<WhatsApp Image 2025-11-22 at 10.18.14_caa307b4-1.jpg>)
-![alt text](<WhatsApp Image 2025-11-22 at 10.15.18_0f1eb80f-1.jpg>)
+ ![alt text](<website car data-1.jpg>) 
+ ![alt text](<website login page-1.jpg>)
+
 
 
 
